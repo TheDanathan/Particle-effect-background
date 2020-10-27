@@ -1,0 +1,17 @@
+{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+
+}
+
+canvas1 {
+  position: absolute;
+  top: 0; left: 0;
+  width: 100%;
+  height: 100%;
+  background: radical-gradient(#ffc38c, #ff9b40);
+}
+body {
+ background-image: linear-gradient(to right, red , #ff751a, #ffff4d);
+}
